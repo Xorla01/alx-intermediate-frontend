@@ -30,14 +30,11 @@ When hosted on **GitHub Pages**, you’ll be able to preview the project here:
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5  
-- Semantic Elements  
-- ARIA Roles  
-
+## Technologies Used
+- HTML5   
 ---
 
-## 👨‍💻 Author
+## Author
 - **Cowther Richmond**  
   *Frontend Developer (ALX Student)*  
 
