@@ -37,21 +37,20 @@ When hosted on **GitHub Pages**, you can preview the project here:
 [Live Demo 2](https://xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/3-index.html)  
 
 ---
-
 ## How to Use Tailwind CSS
-To build and watch for changes in your Tailwind CSS files, run:  
-
+To build and watch for changes in your Tailwind CSS files, run:
 ```bash
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-
+```
 ---
 
 ## Technologies Used
 - HTML5
+- Tailwind CSS
    
 ---
 
 ## Author
 - **Cowther Richmond**  
-  *Frontend Developer (ALX Student)*  
+  *Frontend Developer (ALX Student)* 
 
