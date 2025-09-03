@@ -26,16 +26,17 @@ It focuses on learning how to structure web pages properly, improve accessibilit
 ## Preview
 When hosted on **GitHub Pages**, you’ll be able to preview the project here:  
 
-[Live Demo](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/0-index.html)
-[Live Demo](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/1-index.html)
-[Live Demo](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/2-index.html)
-[Live Demo](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/3-index.html)
-
+**Live Demos:**  
+[Demo 0](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/0-index.html) | 
+[Demo 1](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/1-index.html) | 
+[Demo 2](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/2-index.html) | 
+[Demo 3](https://Xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/3-index.html)
 
 ---
 
 ## Technologies Used
-- HTML5   
+- HTML5
+   
 ---
 
 ## Author
