@@ -48,6 +48,7 @@ Additionally, it provides a **hands-on introduction to Tailwind CSS** by buildin
  → Responsive image gallery
 
 </details>
+
 ---
 
 ## Objectives
