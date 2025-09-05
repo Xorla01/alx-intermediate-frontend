@@ -1,14 +1,14 @@
 # alx-intermediate-frontend
 
 ## Description
-This repository contains my first practice projects in **Semantic HTML** and **Tailwind CSS** as part of the **ALX Frontend Development** program.
-It focuses on:
--Structuring web pages properly
--Improving accessibility
--Following HTML best practices
--Setting up Tailwind CSS for responsive styling
+This repository contains my first practice projects in **Semantic HTML** and **Tailwind CSS** as part of the **ALX Frontend Development** program.  
+It focuses on:  
+- Structuring web pages properly  
+- Improving accessibility  
+- Following HTML best practices  
+- Setting up Tailwind CSS for responsive styling  
+Additionally, it provides a **hands-on introduction to Tailwind CSS** by building responsive and visually appealing layouts. The project covers configuration, responsive design, flexbox and grid integration, and professional styling practices to help master **utility-first CSS** for modern web development.
 
-Additionally, it provides a hands-on introduction to Tailwind CSS by building responsive and visually appealing layouts. The project covers configuration, responsive design, flexbox and grid integration, and professional styling practices to help master utility-first CSS for modern web development.
 ---
 
 ## Directory Structure
