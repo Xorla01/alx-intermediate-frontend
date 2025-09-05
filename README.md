@@ -61,9 +61,9 @@ When hosted on **GitHub Pages**, you can preview the project here:
 [Live Demo 2](https://xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/3-index.html)  
 
 **Tailwind CSS Demos:**  
-[Flexbox Navbar](https://github.com/Xorla01/alx-intermediate-frontend/blob/main/0x02-tailwind-css/4-flexbox_index.html)  
-[Grid + Flex Layout](https://github.com/Xorla01/alx-intermediate-frontend/blob/main/0x02-tailwind-css/5-gridflex_index.html)  
-[Image Gallery](https://github.com/Xorla01/alx-intermediate-frontend/blob/main/0x02-tailwind-css/6-imageGallery.html)  
+[Flexbox Navbar](https://xorla01.github.io/alx-intermediate-frontend/0x02-tailwind-css/4-flexbox_index.html)  
+[Grid + Flex Layout](https://xorla01.github.io/alx-intermediate-frontend/0x02-tailwind-css/5-gridflex_index.html)  
+[Image Gallery](https://xorla01.github.io/alx-intermediate-frontend/0x02-tailwind-css/6-imageGallery.html)  
 
 ---
 
