@@ -1,9 +1,14 @@
 # alx-intermediate-frontend
 
 ## Description
-This repository contains my first practice projects in **Semantic HTML** and **Tailwind CSS** as part of the **ALX Frontend Development** program.  
-It focuses on learning how to structure web pages properly, improve accessibility, follow best practices in HTML, and set up Tailwind CSS for responsive styling. This project provides a hands-on introduction to Tailwind CSS by building responsive and visually appealing layouts. It covers configuration, responsive design, flexbox and grid integration, and professional styling practices to help me master utility-first CSS for modern web development.
+This repository contains my first practice projects in **Semantic HTML** and **Tailwind CSS** as part of the **ALX Frontend Development** program.
+It focuses on:
+-Structuring web pages properly
+-Improving accessibility
+-Following HTML best practices
+-Setting up Tailwind CSS for responsive styling
 
+Additionally, it provides a hands-on introduction to Tailwind CSS by building responsive and visually appealing layouts. The project covers configuration, responsive design, flexbox and grid integration, and professional styling practices to help master utility-first CSS for modern web development.
 ---
 
 ## Directory Structure
@@ -65,13 +70,6 @@ When hosted on **GitHub Pages**, you can preview the project here:
 [Grid + Flex Layout](https://xorla01.github.io/alx-intermediate-frontend/0x02-tailwind-css/5-gridflex_index.html)  
 [Image Gallery](https://xorla01.github.io/alx-intermediate-frontend/0x02-tailwind-css/6-imageGallery.html)  
 
----
-
-## How to Use Tailwind CSS
-To build and watch for changes in your Tailwind CSS files, run:
-```bash
-npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-```
 ---
 
 ## Technologies Used
