@@ -60,6 +60,13 @@ When hosted on **GitHub Pages**, you can preview the project here:
 [Live Demo 1](https://xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/2-index.html) |  
 [Live Demo 2](https://xorla01.github.io/alx-intermediate-frontend/0x00-semantic_html/3-index.html)  
 
+Tailwind CSS Demos:
+[Flexbox Navbar](https://xorla01.github.io/alx-intermediate-frontend/0x0
+ |
+Grid + Flex Layout
+ |
+Image Gallery
+
 ---
 ## How to Use Tailwind CSS
 To build and watch for changes in your Tailwind CSS files, run:
