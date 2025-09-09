@@ -1,0 +1,18 @@
+SASS Installation Steps:
+
+1. Verified Node.js installation:
+   - Ran `node -v` → output: v24.4.0
+   - Ran `npm -v` → output: 11.4.2
+
+2. Navigated to the project folder:
+   - `cd C:\Users\xorla\Desktop\0x03-sass_scss`
+
+3. Installed SASS using npm:
+   - Ran `npm install sass`
+   - This installed SASS version 1.92.1
+
+4. Verified SASS installation:
+   - Ran `npx sass --version`
+   - Output: 1.92.1 compiled with dart2js 3.9.2
+
+5. Installation complete. SASS is ready for use in this project.
